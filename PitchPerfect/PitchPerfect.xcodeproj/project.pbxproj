@@ -36,7 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		552DE08E1D720CBC00F496C5 /* PitchPerfect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PitchPerfect.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		552DE08E1D720CBC00F496C5 /* Pitch Perfect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pitch Perfect.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		552DE0911D720CBC00F496C5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		552DE0931D720CBC00F496C5 /* RecordSoundsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordSoundsViewController.swift; sourceTree = "<group>"; };
 		552DE0961D720CBC00F496C5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -91,7 +91,7 @@
 		552DE08F1D720CBC00F496C5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				552DE08E1D720CBC00F496C5 /* PitchPerfect.app */,
+				552DE08E1D720CBC00F496C5 /* Pitch Perfect.app */,
 				552DE0A21D720CBC00F496C5 /* PitchPerfectTests.xctest */,
 				552DE0AD1D720CBC00F496C5 /* PitchPerfectUITests.xctest */,
 			);
@@ -134,9 +134,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		552DE08D1D720CBC00F496C5 /* PitchPerfect */ = {
+		552DE08D1D720CBC00F496C5 /* Pitch Perfect */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 552DE0B61D720CBC00F496C5 /* Build configuration list for PBXNativeTarget "PitchPerfect" */;
+			buildConfigurationList = 552DE0B61D720CBC00F496C5 /* Build configuration list for PBXNativeTarget "Pitch Perfect" */;
 			buildPhases = (
 				552DE08A1D720CBC00F496C5 /* Sources */,
 				552DE08B1D720CBC00F496C5 /* Frameworks */,
@@ -146,9 +146,9 @@
 			);
 			dependencies = (
 			);
-			name = PitchPerfect;
+			name = "Pitch Perfect";
 			productName = PitchPerfect;
-			productReference = 552DE08E1D720CBC00F496C5 /* PitchPerfect.app */;
+			productReference = 552DE08E1D720CBC00F496C5 /* Pitch Perfect.app */;
 			productType = "com.apple.product-type.application";
 		};
 		552DE0A11D720CBC00F496C5 /* PitchPerfectTests */ = {
@@ -224,7 +224,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				552DE08D1D720CBC00F496C5 /* PitchPerfect */,
+				552DE08D1D720CBC00F496C5 /* Pitch Perfect */,
 				552DE0A11D720CBC00F496C5 /* PitchPerfectTests */,
 				552DE0AC1D720CBC00F496C5 /* PitchPerfectUITests */,
 			);
@@ -291,12 +291,12 @@
 /* Begin PBXTargetDependency section */
 		552DE0A41D720CBC00F496C5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 552DE08D1D720CBC00F496C5 /* PitchPerfect */;
+			target = 552DE08D1D720CBC00F496C5 /* Pitch Perfect */;
 			targetProxy = 552DE0A31D720CBC00F496C5 /* PBXContainerItemProxy */;
 		};
 		552DE0AF1D720CBC00F496C5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 552DE08D1D720CBC00F496C5 /* PitchPerfect */;
+			target = 552DE08D1D720CBC00F496C5 /* Pitch Perfect */;
 			targetProxy = 552DE0AE1D720CBC00F496C5 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -488,7 +488,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		552DE0B61D720CBC00F496C5 /* Build configuration list for PBXNativeTarget "PitchPerfect" */ = {
+		552DE0B61D720CBC00F496C5 /* Build configuration list for PBXNativeTarget "Pitch Perfect" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				552DE0B71D720CBC00F496C5 /* Debug */,
